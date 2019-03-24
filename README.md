@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/2016838087/Tianci.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2016838087/Tianci.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Welcome to Tianci 滑稽网站
+你说帘外海棠，锦屏鸳鸯；后来庭院春深，咫尺画堂。
+你说笛声如诉，费尽思量；后来茶烟尚绿，人影茫茫。
+你说可人如玉，与子偕臧；后来长亭远望，夜色微凉。
+你说霞染天光，陌上花开与谁享；后来烟笼柳暗，湖心水动影无双。
+你说彼岸灯火，心之所向；后来渔舟晚唱，烟雨彷徨。
+你说水静莲香，惠风和畅；后来云遮薄月，清露如霜。
+你说幽窗棋罢，再吐衷肠；后来风卷孤松，雾漫山冈。
+你说红袖佯嗔，秋波流转思张敞；后来黛眉长敛，春色飘零别阮郎。
+你说暗香浮动，刹那光芒；后来玉殒琼碎，疏影横窗。
+你说良辰美景，乘兴独往；后来红尘紫陌，雪落太行。
+你说赋尽高唐，三生石上；后来君居淄右，妾家河阳。
+你说玉楼朱颜，飞月流觞迎客棹；后来幽谷居士，枕琴听雨卧禅房。
+你说高山流水，客答春江；后来章台游冶，系马垂杨。
+你说锦瑟韶光，华灯幢幢；后来荼蘼开至，青苔满墙。
+你说天地玄黄，风月琳琅；后来月斜江上，云淡天长
