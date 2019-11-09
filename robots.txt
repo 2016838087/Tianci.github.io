@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /css/
+Disallow: /js/
+Sitemap: http://www.lovetianci.cn/sitemap.xml
