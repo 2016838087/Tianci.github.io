@@ -1,2 +1,2 @@
 ## Welcome to Tianci.github.io
-http://www.lovetianci.cn/
+https://2016838087.github.io/TianciFunny/
